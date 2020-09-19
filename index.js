@@ -10,5 +10,5 @@ function iterativeLog(array) {
   function iterate(callback) {
     array.forEach((element, index) => {
       return index;
-    }
+    })
   }

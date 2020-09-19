@@ -7,9 +7,3 @@ function iterativeLog(array) {
   })
   }
 
-  function iterate(callback) {
-    let array = ['a', 'b', 'c']
-    array.forEach((element) => {
-      return index;
-    }
-  }

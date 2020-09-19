@@ -10,6 +10,6 @@ function iterativeLog(array) {
   function iterate(callback) {
     const array2 = ['a', 'b', 'c']
     array2.forEach((element, index, callback) => {
-      console.log(`$callback`)
+      console.log(`${callback}`)
     })
   }

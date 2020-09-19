@@ -1,6 +1,3 @@
-
-const numbers = [1, 2, 3]
-
 function iterativeLog(array) {
   array.forEach((element,index) =>{
     console.log(`${index}: ${element}`)

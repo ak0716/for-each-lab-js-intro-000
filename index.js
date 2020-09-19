@@ -4,6 +4,10 @@ function iterativeLog(array) {
   })
   }
 
+  function callback(arr) {
+    return arr
+  }
+
   function iterate(callback) {
     var letters = ['a', 'b', 'c']
     letters.forEach(callback)

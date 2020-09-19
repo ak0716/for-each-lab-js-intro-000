@@ -7,9 +7,10 @@ function iterativeLog(array) {
   })
   }
 
-  const array2 = ['a', 'b', 'c']
   function iterate(callback) {
-    array2.forEach((element, index) => {
-      return `${element}`;
-    })
+    const array = []
+    const array2 = ['a', 'b', 'c']
+    array2.forEach((element) => {
+      array.push()
+    }) return array
   }

@@ -6,3 +6,10 @@ function iterativeLog(array) {
     console.log(`${index}: ${element}`)
   })
   }
+
+  function iterate(callback) {
+    let array2 = ['a', 'b', 'c']
+    array2.forEach((element) => {
+      return index;
+    }
+  }

@@ -10,6 +10,6 @@ function iterativeLog(array) {
     return letters
   }
 
-function toDoArray(array, callback) {
+function doToArray(array, callback) {
   array.forEach(callback)
 }

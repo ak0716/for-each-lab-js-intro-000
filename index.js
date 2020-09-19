@@ -9,3 +9,7 @@ function iterativeLog(array) {
     letters.forEach(callback)
     return letters
   }
+
+function toDoArray(array, callback) {
+  array.forEach(callback)
+}

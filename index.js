@@ -1,5 +1,5 @@
 
-const array2 = [1, 2, 3]
+const numbers = [1, 2, 3]
 
 function iterativeLog(array) {
   array.forEach((element,index) =>{

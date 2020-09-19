@@ -11,4 +11,5 @@ function iterativeLog(array) {
   function iterate(callback) {
     var letters = ['a', 'b', 'c']
     letters.forEach(callback)
+    return letters
   }

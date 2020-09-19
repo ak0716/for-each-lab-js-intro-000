@@ -11,6 +11,6 @@ function iterativeLog(array) {
     const array = []
     const array2 = ['a', 'b', 'c']
     array2.forEach((element) => {
-      array.push()
+      array.push(element)
     }) return array
   }

@@ -9,5 +9,7 @@ function iterativeLog(array) {
 
   function iterate(callback) {
     const array2 = ['a', 'b', 'c']
-    array2.forEach(callback)
+    array2.forEach(callback{
+      return array2
+    })
   }
